@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cognizant-logo.png" alt="Cognizant — Intuition Engineered" width="520">
+  <img src="cognizant-logo.png" alt="Cognizant — Intuition Engineered" width="520">
 </p>
 
 <h1 align="center">Cognizant Digital Nurture 5.0</h1>
